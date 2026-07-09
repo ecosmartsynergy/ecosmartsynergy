@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋 🚀
+# Hi there, I'm Inspiration! 👋 🚀
 
 I am an **Educator, Multidisciplinary Thinker, and Next-Gen Software Developer**. 
 I bridge the analytical depth of Physics, Astronomy, and Mathematics with the sheer production power of modern Artificial Intelligence (AI) tools.
